@@ -11,6 +11,6 @@ updates:
       interval: "daily"
 updates:
   - package-ecosystem: "npm" # See documentation for possible values
-    directory: "/" # Location of package manifests
+    directory: "/my-app" # Location of package manifests
     schedule:
       interval: "daily"
